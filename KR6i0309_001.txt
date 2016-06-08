@@ -1,18 +1,17 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:16:07.544546
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 13:20
 #+TITLE: 金光明最勝王經疏
 #+PROPERTY: CBETA_ID T39n1788
 #+PROPERTY: ID KR6i0309
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 39, No. 1788
 #+PROPERTY: VOL 39
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS master
 #+PROPERTY: LASTPB <pb:KR6i0309_T_001-0175a> 
 #+PROPERTY: JUAN 1
 ¶
-No.1788[cf.No.665]¶
-
- 第一金光明最勝王經疏卷第一¶
+No. 1788 [cf. No. 665]¶
+金光明最勝王經疏卷第一¶
 ¶
 唐三藏法師義淨奉　制譯¶
 翻經沙門慧沼撰¶
@@ -29,9 +28,9 @@ No.1788[cf.No.665]¶
 　迴向大菩提
 　共生登妙覺¶
 　虔誠三業禮
-　唯願各加護
+　唯願各加護」
 #+END_VERSE
-」¶
+¶
 
 將釋此經先以五門分別。一敘經之起因。二¶
 彰經之宗體。三明經之時利。四辨經之得名。¶
@@ -808,11 +807,7 @@ No.1788[cf.No.665]¶
 授記雖明來果。捨身明其往因。為勸而來故¶
 流通攝。¶
 
-1序品(一)
-:PROPERTIES:
-:head: 序品第一
-:END:
-¶
+* 序品第一¶
 
 就序品中有七圓滿。一序圓滿。二三昧圓滿。¶
 三聽眾圓滿。四說因圓滿。五說時圓滿。六審¶
@@ -1564,7 +1559,7 @@ No.1788[cf.No.665]¶
 
 贊曰。列藥叉眾。¶
 文亦分四。藥叉此云勇健。亦云捷疾。亦攝地¶
-行諸邏剎娑。邏剎娑此云暴惡。歎德有三。一¶
+行諸邏剎婆。邏剎婆此云暴惡。歎德有三。一¶
 愛正法。二能護持。三不疲倦。
 <pb:KR6i0309_T_001-0190a>¶
 
