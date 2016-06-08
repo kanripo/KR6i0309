@@ -1,5 +1,5 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:16:07.691430
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 13:21
 #+TITLE: 金光明最勝王經疏
 #+PROPERTY: CBETA_ID T39n1788
 #+PROPERTY: ID KR6i0309
@@ -1735,7 +1735,7 @@
 (盡滅業障品)¶
 ¶
 
-4夢見懺悔品(三末)
+* 4夢見懺悔品(三末)
 :PROPERTIES:
 :head: 夢見懺悔品第四
 :END:
@@ -2637,7 +2637,7 @@
 
 　　　　唐三藏法師義淨奉　制譯¶
 
-5滅業障品(三末)
+* 5滅業障品(三末)
 :PROPERTIES:
 :head: 滅業障品第五
 :END:

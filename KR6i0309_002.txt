@@ -1,5 +1,5 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:16:07.606958
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 13:21
 #+TITLE: 金光明最勝王經疏
 #+PROPERTY: CBETA_ID T39n1788
 #+PROPERTY: ID KR6i0309
@@ -15,7 +15,7 @@
 ¶
 翻經沙門慧沼撰¶
 
-2如來壽量品(二本)
+* 2如來壽量品(二本)
 :PROPERTIES:
 :head: 如來壽量品第二
 :END:
@@ -1894,7 +1894,7 @@
 ¶
 唐三藏法師義淨奉　制譯¶
 
-3分別三身品(二末-三本)
+* 3分別三身品(二末-三本)
 :PROPERTIES:
 :head: 分別三身品第三
 :END:
